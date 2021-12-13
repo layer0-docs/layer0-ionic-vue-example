@@ -1,0 +1,7 @@
+{
+  "name": "layer0-ionic-vue-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
